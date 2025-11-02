@@ -6,12 +6,12 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+WHATSAPP+BOT+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+sir+bravin+🚀;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://files.catbox.moe/c07f3s.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://files.catbox.moe/4n1tap.jpg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
@@ -22,8 +22,8 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://url.bwmxmd.online/Adams.gbv0odfp.jpg">
-    <img src="https://url.bwmxmd.online/Adams.gbv0odfp.jpg" width="100%" height="auto">
+  <a href="[.](https://files.catbox.moe/4n1tap.jpg) ">
+    <img src="https://files.catbox.moe/4n1tap.jpg " width="100%" height="auto">
   </a>
 </p>
 
