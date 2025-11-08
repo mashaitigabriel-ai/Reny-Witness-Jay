@@ -176,22 +176,22 @@
     },
     "MENU_USER_LINE": {
       "description": "User line in menu",
-      "value": "│🕵️ ",
+      "value": "│♻️ ",
       "required": false
     },
     "MENU_DATE_LINE": {
       "description": "Date line in menu",
-      "value": "│📅 ",
+      "value": "│⚠️ ",
       "required": false
     },
     "MENU_TIME_LINE": {
       "description": "Time line in menu",
-      "value": "│⏰ ",
+      "value": "│☢️ ",
       "required": false
     },
     "MENU_STATS_LINE": {
       "description": "Stats line in menu",
-      "value": "│⭐ ",
+      "value": "│☣️ ",
       "required": false
     },
     "MENU_BOTTOM_DIVIDER": {
