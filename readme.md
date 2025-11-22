@@ -6,34 +6,34 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=😈+JËËPËRS+CREEPERS+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+sir+bravin+🚀;🥰+Fast+😈+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://files.catbox.moe/vroijv.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://files.catbox.moe/c07f3s.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
 <!-- Quantum Pulse - Activity Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;♥️+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="jeepers creeper Pulse Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
 </p>
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/4n1tap.jpg">
-    <img src="https://files.catbox.moe/4n1tap.jpg " width="100%" height="auto">
+  <a href="https://url.bwmxmd.online/Adams.gbv0odfp.jpg">
+    <img src="https://url.bwmxmd.online/Adams.gbv0odfp.jpg" width="100%" height="auto">
   </a>
 </p>
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://sir-bravin-scanner.onrender.com/ " target="_blank" rel="noopener noreferrer">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_WHATSAPP_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  <a href="https://main.bwmxmd.online/scanner" target="_blank" rel="noopener noreferrer">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/sir-bravin111/new-bot" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY WHATSAPP BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  <a href="https://main.bwmxmd.online/Deploy" target="_blank" rel="noopener noreferrer">
+    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
@@ -55,7 +55,7 @@
 
 <!-- WhatsApp Channel Call to Action -->
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbB4nox4Y9lqVl2X8n3m" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="340" height="50" alt="Follow my WhatsApp Channel!"/>
   </a>
   <br>
@@ -67,7 +67,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://img.shuelds.io/github/sir-bravin111?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/Bwmxmd254?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
 </p>
 
 
@@ -93,7 +93,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
   <br>
-  <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & 🚀</b></span>
+  <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & Quantum-Ready 🚀</b></span>
 </p>
 
 <!-- Alive Footer Animation -->
@@ -102,7 +102,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+WHATSAPP+BOT+Edition+by+sir+bravin;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
